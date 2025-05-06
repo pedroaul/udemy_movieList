@@ -4,7 +4,7 @@ We create a web page of a movie list with tmdb api that contains the movies list
 
 The whole project was made in React js.
 
-Now let's get started with Create React App
+## Now let's get started with Create React App
 
 This project was bootstrapped with Create React App.
 
