@@ -1,0 +1,47 @@
+.movie-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+    margin: 14px auto;
+}
+
+.movie-list article {
+    max-width: 100%;
+    padding: 15px;
+}
+
+.movie-list strong {
+    display: block;
+    padding: 17px 0;
+    color: #FFFF;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.movie-list img {
+    width: 900px;
+    height: 1350px;
+}
+
+.acessLink {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+.acessLink a {
+    display: block;
+    font-size: 25px;
+    color: #FFFF;
+    text-decoration: none;
+    background-color: red;
+    padding: 17px 55px;
+    border-radius: 10px;
+}
+
+.acessLink a:hover {
+    transform: scale(1.05);
+    color: rgb(255, 168, 168);
+    transition: .3s;
+}

@@ -1,0 +1,31 @@
+header {
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 60px;
+}
+
+.brand {
+    text-decoration: none;
+    font-size: 30px;
+    cursor: pointer;
+    color: white;
+    font-weight: 800;
+}
+
+.mymovies {
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 15px;
+    color: black;
+    border-radius: 10px;
+}
+
+.mymovies:hover {
+    transform: scale(1.05);
+    transition: .2s;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 87, 87);
+}
