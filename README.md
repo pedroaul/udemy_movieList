@@ -1,6 +1,6 @@
 # This project is based on a udemy React Course by "Sujeito Programador".
 
-Link bellow: 
+Link bellow:
 https://www.udemy.com/course/curso-reactjs
 
 We create a web page of a movie list with tmdb api that contains the movies list. 
